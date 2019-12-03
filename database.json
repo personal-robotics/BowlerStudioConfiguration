@@ -12,13 +12,22 @@
       "personal-robotics/BowlerStudioConfiguration",
       "1574684955175"
     ],
+    "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git": [
+      "GIST: poseAroundAPoint.groovy",
+      "1575390386728"
+    ],
     "https://gist.github.com/95aa5b92f4cd67e817a944ad57d75722.git": [
       "GIST: JavaCadExample",
       "1575364722261"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git:poseAroundAPoint.groovy": [
+      "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git",
+      "poseAroundAPoint.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
