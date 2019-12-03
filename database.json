@@ -7,19 +7,14 @@
     "https://github.com/personal-robotics/BowlerStudioConfiguration.git": [
       "personal-robotics/BowlerStudioConfiguration",
       "1574684955175"
+    ],
+    "https://gist.github.com/95aa5b92f4cd67e817a944ad57d75722.git": [
+      "GIST: JavaCadExample",
+      "1575364722261"
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://github.com/personal-robotics/BowlerStudioConfiguration.git:database.json": [
-      "https://github.com/personal-robotics/BowlerStudioConfiguration.git",
-      "database.json"
-    ],
-    "https://gist.github.com/c97d4c194bac8e738b7cd1f16c84b79f.git:LinkedCadEngine.groovy": [
-      "https://gist.github.com/c97d4c194bac8e738b7cd1f16c84b79f.git",
-      "LinkedCadEngine.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
