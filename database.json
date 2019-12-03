@@ -4,6 +4,10 @@
       "personal-robotics/BOB303",
       "1575388776940"
     ],
+    "https://gist.github.com/084c0d9154567f13fe51935d58ca329e.git": [
+      "GIST: Walk a Mobile base around",
+      "1575391001360"
+    ],
     "https://gist.github.com/c97d4c194bac8e738b7cd1f16c84b79f.git": [
       "GIST: humanoid_copy_copy copy of humanoid_copy",
       "1574684844845"
@@ -30,6 +34,10 @@
     "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git:poseAroundAPoint.groovy": [
       "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git",
       "poseAroundAPoint.groovy"
+    ],
+    "https://gist.github.com/084c0d9154567f13fe51935d58ca329e.git:WalkTest.groovy": [
+      "https://gist.github.com/084c0d9154567f13fe51935d58ca329e.git",
+      "WalkTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
