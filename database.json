@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/personal-robotics/BOB303.git": [
+      "personal-robotics/BOB303",
+      "1575388776940"
+    ],
     "https://gist.github.com/c97d4c194bac8e738b7cd1f16c84b79f.git": [
       "GIST: humanoid_copy_copy copy of humanoid_copy",
       "1574684844845"
