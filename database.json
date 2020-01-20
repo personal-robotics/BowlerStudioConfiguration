@@ -30,16 +30,7 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {
-    "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git:poseAroundAPoint.groovy": [
-      "https://gist.github.com/3fdc8d2102a0a61f29a1849c2b29febf.git",
-      "poseAroundAPoint.groovy"
-    ],
-    "https://gist.github.com/084c0d9154567f13fe51935d58ca329e.git:WalkTest.groovy": [
-      "https://gist.github.com/084c0d9154567f13fe51935d58ca329e.git",
-      "WalkTest.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.2.4",
